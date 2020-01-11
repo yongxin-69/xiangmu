@@ -1,0 +1,96 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1578732600500" stop="1578732883703">
+  <name>scripts</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1578732600500" status="passed" stop="1578732623477">
+      <name>test01_mp_login.TestMpLogin.test_mp_login[13812345678-246810-13812345678]</name>
+      <attachments>
+        <attachment source="f87b4d67-0eb3-46ec-88fd-2bdaf6a5ee4b-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="83bd4b03-dd36-4246-8619-0d36e9f96c68-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9540-MainThread"/>
+        <label name="host" value="DESKTOP-IQSA48V"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1578732625889" status="passed" stop="1578732654522">
+      <name>test02_mp_article.TestMpArticle.test_mp_article[\u6d4b\u8bd5123456-\u6d4b\u8bd5\u6587\u7ae0\u53d1\u5e03-\u65b0\u589e\u6587\u7ae0\u6210\u529f]</name>
+      <attachments>
+        <attachment source="4150bf71-cb3e-4af0-a7c0-604fa725fdaf-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="88579326-cdff-4ed6-b802-72bb82570296-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9540-MainThread"/>
+        <label name="host" value="DESKTOP-IQSA48V"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1578732656849" status="passed" stop="1578732675881">
+      <name>test03_mis_login.TestMisLogin.test_mis_login[testid-testpwd123-\u6b22\u8fce \u7ba1\u7406\u5458]</name>
+      <attachments>
+        <attachment source="0f468602-6240-4068-864e-626d0139b1c8-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="afb57bfd-95a9-4e96-aab5-dd822e8af13e-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9540-MainThread"/>
+        <label name="host" value="DESKTOP-IQSA48V"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1578732678273" status="passed" stop="1578732790427">
+      <name>test04_mis_audit.TestMisAudit.test_mis_audit</name>
+      <attachments>
+        <attachment source="30eb768a-00c6-43eb-a722-86ee7c5fdd38-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="c780a081-2200-4267-ae6a-b7f3d6744303-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9540-MainThread"/>
+        <label name="host" value="DESKTOP-IQSA48V"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1578732792683" status="passed" stop="1578732826232">
+      <name>test05_app_login.TestAppLogin.test_app_login</name>
+      <attachments>
+        <attachment source="235656fb-a3e1-4c97-afc3-1968fced74f8-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="69adbd59-0fa2-4030-a9ba-5fec1b6e0729-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9540-MainThread"/>
+        <label name="host" value="DESKTOP-IQSA48V"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1578732829530" status="passed" stop="1578732883703">
+      <name>test06_app_article.TestAppArticle.test_app_article</name>
+      <attachments>
+        <attachment source="a0593b94-a31c-4c54-a794-31820baf5830-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="bff3272b-7bcf-48ad-bcee-8ec890f584b1-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9540-MainThread"/>
+        <label name="host" value="DESKTOP-IQSA48V"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

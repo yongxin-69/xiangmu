@@ -1,0 +1,40 @@
+base.py                     35 INFO     正在点击 ('xpath', "//*[@class='menu']//*[text()='信息管理']") 元素 
+base.py                     19 INFO     正在查找元素: ('xpath', "//*[@class='menu']//*[text()='信息管理']")
+base.py                     35 INFO     正在点击 ('xpath', "//*[@class='menu']//*[text()='内容审核']") 元素 
+base.py                     19 INFO     正在查找元素: ('xpath', "//*[@class='menu']//*[text()='内容审核']")
+base.py                     29 INFO     正在清空元素: ('css selector', '[placeholder="请输入: 文章名称"]')
+base.py                     19 INFO     正在查找元素: ('css selector', '[placeholder="请输入: 文章名称"]')
+base.py                     31 INFO     正在给 ('css selector', '[placeholder="请输入: 文章名称"]') 元素执行输入操作: 测试123456
+base.py                     19 INFO     正在查找元素: ('css selector', '[placeholder="请输入: 文章名称"]')
+base.py                     29 INFO     正在清空元素: ('css selector', '[placeholder="请输入: 频道"]')
+base.py                     19 INFO     正在查找元素: ('css selector', '[placeholder="请输入: 频道"]')
+base.py                     31 INFO     正在给 ('css selector', '[placeholder="请输入: 频道"]') 元素执行输入操作: 数据库
+base.py                     19 INFO     正在查找元素: ('css selector', '[placeholder="请输入: 频道"]')
+web_base.py                 12 INFO     正在点击下拉元素('css selector', "[placeholder='请选择状态']")
+base.py                     35 INFO     正在点击 ('css selector', "[placeholder='请选择状态']") 元素 
+base.py                     19 INFO     正在查找元素: ('css selector', "[placeholder='请选择状态']")
+web_base.py                 17 INFO     正在选择下拉元素('css selector', 'ul>li')
+base.py                     24 INFO     正在查找元素列表: ('css selector', 'ul>li')
+base.py                     35 INFO     正在点击 ('css selector', '.find') 元素 
+base.py                     19 INFO     正在查找元素: ('css selector', '.find')
+base.py                     19 INFO     正在查找元素: ('css selector', '.cell>span')
+base.py                     35 INFO     正在点击 ('xpath', "//*[text()='通过']//..") 元素 
+base.py                     19 INFO     正在查找元素: ('xpath', "//*[text()='通过']//..")
+base.py                     35 INFO     正在点击 ('css selector', '.el-button--primary') 元素 
+base.py                     19 INFO     正在查找元素: ('css selector', '.el-button--primary')
+base.py                     29 INFO     正在清空元素: ('css selector', '[placeholder="请输入: 文章名称"]')
+base.py                     19 INFO     正在查找元素: ('css selector', '[placeholder="请输入: 文章名称"]')
+base.py                     31 INFO     正在给 ('css selector', '[placeholder="请输入: 文章名称"]') 元素执行输入操作: 测试123456
+base.py                     19 INFO     正在查找元素: ('css selector', '[placeholder="请输入: 文章名称"]')
+base.py                     29 INFO     正在清空元素: ('css selector', '[placeholder="请输入: 频道"]')
+base.py                     19 INFO     正在查找元素: ('css selector', '[placeholder="请输入: 频道"]')
+base.py                     31 INFO     正在给 ('css selector', '[placeholder="请输入: 频道"]') 元素执行输入操作: 数据库
+base.py                     19 INFO     正在查找元素: ('css selector', '[placeholder="请输入: 频道"]')
+web_base.py                 12 INFO     正在点击下拉元素('css selector', "[placeholder='请选择状态']")
+base.py                     35 INFO     正在点击 ('css selector', "[placeholder='请选择状态']") 元素 
+base.py                     19 INFO     正在查找元素: ('css selector', "[placeholder='请选择状态']")
+web_base.py                 17 INFO     正在选择下拉元素('css selector', 'ul>li')
+base.py                     24 INFO     正在查找元素列表: ('css selector', 'ul>li')
+base.py                     35 INFO     正在点击 ('css selector', '.find') 元素 
+base.py                     19 INFO     正在查找元素: ('css selector', '.find')
+base.py                     19 INFO     正在查找元素: ('css selector', '//*[text()=1215810208975028224]')

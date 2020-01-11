@@ -1,0 +1,4 @@
+mp_article:
+  title: "测试123456"
+  content: "测试文章发布"
+  expect: "新增文章成功"

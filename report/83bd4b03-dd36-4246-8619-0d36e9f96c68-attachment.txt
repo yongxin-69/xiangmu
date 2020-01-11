@@ -1,0 +1,12 @@
+page_mp_login.py            28 INFO     正在调用自媒体登录业务, 用户名: 13812345678 密码: 246810
+base.py                     29 INFO     正在清空元素: ('css selector', '[placeholder="请输入手机号"]')
+base.py                     19 INFO     正在查找元素: ('css selector', '[placeholder="请输入手机号"]')
+base.py                     31 INFO     正在给 ('css selector', '[placeholder="请输入手机号"]') 元素执行输入操作: 13812345678
+base.py                     19 INFO     正在查找元素: ('css selector', '[placeholder="请输入手机号"]')
+base.py                     29 INFO     正在清空元素: ('css selector', '[placeholder="验证码"]')
+base.py                     19 INFO     正在查找元素: ('css selector', '[placeholder="验证码"]')
+base.py                     31 INFO     正在给 ('css selector', '[placeholder="验证码"]') 元素执行输入操作: 246810
+base.py                     19 INFO     正在查找元素: ('css selector', '[placeholder="验证码"]')
+base.py                     35 INFO     正在点击 ('class name', 'el-button--primary') 元素 
+base.py                     19 INFO     正在查找元素: ('class name', 'el-button--primary')
+base.py                     19 INFO     正在查找元素: ('class name', 'user-name')
